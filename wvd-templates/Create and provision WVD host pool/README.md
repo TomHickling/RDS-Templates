@@ -9,6 +9,8 @@ Click the button below to deploy:
 
 # Create and provision new Windows Virtual Desktop hostpool
 
+Added Support for Windows Server 2019 and Sahred Image Gallery
+
 This template creates virtual machines and registers them as session hosts to a new or existing Windows Virtual Desktop host pool. There are multiple sets of parameters you must enter to successfully deploy the template:
 - VM image
 - VM configuration
